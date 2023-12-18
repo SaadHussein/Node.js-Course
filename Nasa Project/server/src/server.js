@@ -8,6 +8,7 @@ async function startServer() {
   await loadPlanets();
   server.listen(PORT, () => {
     console.log("Hello To Nasa Project");
+    console.log(process);
   });
 }
 
