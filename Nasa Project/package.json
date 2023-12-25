@@ -16,8 +16,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "pm2": "^5.3.0"
-  }
+  "license": "ISC"
 }
